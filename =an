@@ -1,0 +1,5 @@
+    pager = most
+[color]
+    ui = auto
+[merge]
+    conflictstyle = diff3
